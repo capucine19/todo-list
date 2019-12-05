@@ -5,7 +5,8 @@ this is a challenge : 24 h to create a todo list
  to install the app : 
 - download zip
 - change the information to connect the database in connect.php
-- create table with table.sql
+- run install.php
+- delete install.php
 and it's good
 
 ## fonction :
